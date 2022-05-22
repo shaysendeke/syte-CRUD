@@ -1,3 +1,20 @@
+# What does this app do?
+This app allows you to manage your books as if you were a book store owner or a random bookworm.
+
+it does all CRUD operations:
+
+*Create - Allows you to add a book to your books inventory.
+*Read - Allows you to see all created books.
+*Update - Allows you to update selected fields in chosen book data.
+*Delete - Allows you yo delete selected book.
+
+Frameworks used:
+# REACT
+# JAVASCRIPT
+# NODE.JS
+# SCSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
