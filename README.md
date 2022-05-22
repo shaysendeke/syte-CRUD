@@ -9,10 +9,10 @@ it does all CRUD operations:
 *Delete - Allows you yo delete selected book.
 
 Frameworks used:
-# REACT
-# JAVASCRIPT
-# NODE.JS
-# SCSS
+1. REACT
+2. JAVASCRIPT
+3. NODE.JS
+4. SCSS
 
 
 # Getting Started with Create React App
